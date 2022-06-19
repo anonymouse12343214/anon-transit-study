@@ -1,5 +1,5 @@
 """ File: auto-GTFS-downloader.py
-Author: Kevin Dick
+Author: ANON
 Date: 2022-05-16
 ---
 Description: Script to automatically download the GTFS data from the links
